@@ -1,5 +1,4 @@
 <?php
-
 /******************************************************************************
  * OmniPCX Open Gateway 
  * @category   SAMPLE CODE
@@ -8,7 +7,6 @@
  * @copyright  2018  ALE
  * @version    0.9.9
  ******************************************************************************/
-
 
 /* 
 For onboarding and playground purpose
