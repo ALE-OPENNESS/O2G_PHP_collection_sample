@@ -1,4 +1,4 @@
-# Alcatel-Lucent Enteprise - OmniPCX Open Gateway (02G) - PLAYGROUND 
+# Alcatel-Lucent Enterprise - OmniPCX Open Gateway (02G) - PLAYGROUND 
 
 *For developers onboarding and playground purpose.*
 
